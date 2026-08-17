@@ -1,6 +1,5 @@
-### Before You Start
+### Before You Start | NGINX - Minimally Viable Product
 
-- "nginx-mvp" stands for "NGINX - Minimally Viable Product"
 - The Unified Helmchart is not a publicly available resource
 - Please contact F5 Professional Service / ConsultingSchedulingAPAC@f5.com for guidance
 
