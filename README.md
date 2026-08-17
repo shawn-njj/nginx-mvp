@@ -1,7 +1,7 @@
 ### Before You Start
 
 - The Unified Helmchart is not a publicly available resource
-- Please contact F5 Professional Service for guidance
+- Please contact F5 Professional Service / ConsultingSchedulingAPAC@f5.com for guidance
 
 
 ### Unified Helmchart Parameters (NGINX Ingress Controller)
