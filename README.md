@@ -1,4 +1,4 @@
-### Disclaimer
+### Before You Start
 ```
 The Unified Helmchart is not a publicly available resource, Please contact F5 Professional Service for guidance
 ```
@@ -51,10 +51,6 @@ aws eks update-kubeconfig --region <awsregion> --name <eksclustername>
 alias k=kubectl
 ```
 
-### aws cloudshell
-```
-aws eks update-kubeconfig --region <awsregion> --name <eksclustername>
-```
 ```
 alias k=kubectl
 ```
