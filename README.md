@@ -37,12 +37,14 @@ alias k=kubectl
 ```
 
 ### Monitoring / Observability
-```
-aws eks update-kubeconfig --region <awsregion> --name <eksclustername>
-```
-```
-alias k=kubectl
-```
+![Alt text](images/grafana1.png)
+
+![Alt text](images/grafana2.png)
+
+![Alt text](images/grafana3.png)
+
+![Alt text](images/grafana4.png)
+
 
 ### Config Management
 ```
