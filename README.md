@@ -1,3 +1,8 @@
+### Disclaimer
+```
+The Unified Helmchart is not a publicly available resource, Please contact F5 Professional Service for guidance
+```
+
 ### Unified Helmchart Parameters (NGINX Ingress Controller)
 ```
 aws eks update-kubeconfig --region <awsregion> --name <eksclustername>
